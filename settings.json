@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "allratemc.aternos.me",
-    "port": 24542,
+    "ip": "191.96.231.9",
+    "port": 11915,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ALLRATE ENG ZOR SERVER",
+        "ALLRATE TG DA YANGILIKLAR",
+        "SERVERDA OYNANG VA MAROQLI YANGLIKLARDAN BAHRAMAT BOLING"
       ]
     },
     "chat-log": true,
