@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vuzeruz.mcsh.io",
+    "ip": "191.96.231.9",
     "port": 11915,
-    "version": "1.16.5"
+    "version": "1.17.1"
   },
   "position": {
     "enabled": true,
